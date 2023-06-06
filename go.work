@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./Creational/Builder
+	./Creational/Factory
+	./Creational/Singleton
+	./Structural/Adapter
+)
