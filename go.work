@@ -5,4 +5,5 @@ use (
 	./Creational/Factory
 	./Creational/Singleton
 	./Structural/Adapter
+	./Structural/Facade
 )
